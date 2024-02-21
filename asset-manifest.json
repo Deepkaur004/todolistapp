@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deepkaur004/todolistapp/static/css/main.d29de8e4.css",
+    "main.js": "/Deepkaur004/todolistapp/static/js/main.3ebf3d54.js",
+    "index.html": "/Deepkaur004/todolistapp/index.html",
+    "main.d29de8e4.css.map": "/Deepkaur004/todolistapp/static/css/main.d29de8e4.css.map",
+    "main.3ebf3d54.js.map": "/Deepkaur004/todolistapp/static/js/main.3ebf3d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29de8e4.css",
+    "static/js/main.3ebf3d54.js"
+  ]
+}
